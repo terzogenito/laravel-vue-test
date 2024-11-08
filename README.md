@@ -1,10 +1,11 @@
 ## Demo of Vue JS as Front-End and Laravel as Back-end
 
 ### Framework :
-1. PHP >= 8.3.13
-1. Laravel 11.x
-1. Composer 2.8.2
 1. PosgreSQL 13
+1. PHP >= 8.3.13
+1. Composer 2.8.2
+1. Laravel 11.x
+1. Vue 3.5.12
 
 ### BackEnd Features:
 1. Interface-Repository Pattern
